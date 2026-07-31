@@ -1,0 +1,28 @@
+# macOS / Jupyter / Python
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# Raw and downloaded datasets
+data/
+*.zip
+*.gz
+*.rds
+*.RData
+*.Rds
+*.nii
+*.nii.gz
+*.dcm
+
+# Generated outputs
+results/
+figures/
+tables/
+
+# Temporary files
+*.log
+*.tmp
