@@ -1,0 +1,22 @@
+name: sting-radiomics
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - openpyxl
+  - nibabel
+  - simpleitk
+  - pip
+  - pip:
+      - pyradiomics==3.0.1
