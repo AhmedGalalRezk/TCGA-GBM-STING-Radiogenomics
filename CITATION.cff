@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "TCGA-GBM STING Radiogenomics"
+message: "If you use this repository, please cite both the accompanying manuscript and this software."
+type: software
+
+authors:
+  - family-names: Rezk
+    given-names: Ahmed Galal
+    orcid: https://orcid.org/0009-0008-4207-2052
+
+repository-code: https://github.com/AhmedGalalRezk/TCGA-GBM-STING-Radiogenomics
+
+license: MIT
+
+keywords:
+  - glioblastoma
+  - radiomics
+  - radiogenomics
+  - MRI
+  - STING
+  - TCGA
+  - BraTS
+
+version: "1.0.0"
+
+date-released: 2026-07-31
